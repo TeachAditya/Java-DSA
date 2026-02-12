@@ -1,6 +1,6 @@
-package lec5;
+package Lec5;
 import java.util.*;
-public class Pattern12 {
+public class Pattern12 {   // Square Pattern leaving a V shape space inside it
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number : ");

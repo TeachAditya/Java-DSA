@@ -1,6 +1,6 @@
-package lec6;
+package Lec6;
 import java.util.*;
-public class Pattern17 {
+public class Pattern17 {   //Pyramid Pattern having row numbers series in each row 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a value : ");

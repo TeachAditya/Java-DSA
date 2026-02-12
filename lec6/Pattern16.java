@@ -1,6 +1,6 @@
-package lec6;
+package Lec6;
 import java.util.*;
-public class Pattern16 {
+public class Pattern16 {     // Mirror Square Pattern leaving a V shape space inside it
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the values : ");

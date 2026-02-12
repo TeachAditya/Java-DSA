@@ -1,6 +1,6 @@
-package lec6;
+package Lec6;
 import java.util.*;
-public class Pattern14{
+public class Pattern14{         //Left side Pyramid Pattern
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value : ");

@@ -1,8 +1,8 @@
-package lec4;
+package Lec4;
 
 import java.util.*;
 
-public class Pattern7 {
+public class Pattern7 {   //Corner edge Star Square Pattern
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

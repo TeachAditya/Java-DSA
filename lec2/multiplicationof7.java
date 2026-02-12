@@ -1,4 +1,4 @@
-package lec2;
+package Lec2;
 
 public class multiplicationof7 {
     public static void main(String[] args) {

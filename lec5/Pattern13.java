@@ -1,6 +1,6 @@
-package lec5;
+package Lec5;
 import java.util.*;
-public class Pattern13 {
+public class Pattern13 {      // Square Pattern leaving a invert V shape space inside it
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number : ");
@@ -37,12 +37,3 @@ public class Pattern13 {
         }
     }
 }
-
-
-// home work 
-//*********
-//**** ****
-//***   ***
-//**     **
-//*       *
-// / */

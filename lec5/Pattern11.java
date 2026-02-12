@@ -1,8 +1,8 @@
-package lec5;
+package Lec5;
 
 import java.util.*;
 
-public class Pattern11 {
+public class Pattern11 {      // Pyramid Pattern with exclamation and star
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");

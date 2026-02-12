@@ -1,4 +1,4 @@
-package lec2;
+package Lec2;
 import java.util.Scanner;
 public class ReverseNo {
    public static void main(String[] args) {

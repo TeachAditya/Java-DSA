@@ -1,6 +1,6 @@
-package lec5;
+package Lec5;
 import java.util.*;
-public class Pattern9 {
+public class Pattern9 {        //Invert Pyramid Pattern
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your Value : ");

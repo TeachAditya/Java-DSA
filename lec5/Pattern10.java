@@ -1,8 +1,8 @@
-package lec5;
+package Lec5;
 
 import java.util.Scanner;
 
-public class Pattern10 {
+public class Pattern10 {   // Pyramid Pattern with space of 1 star
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");

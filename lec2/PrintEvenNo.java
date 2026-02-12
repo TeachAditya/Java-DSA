@@ -1,4 +1,4 @@
-package lec2;
+package Lec2;
 
 public class PrintEvenNo {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package lec4;
+package Lec4;
 import java.util.*;
-public class Pattern6 {
+public class Pattern6 {       //Inverted Right angle slopy Pattern
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
        System.out.println("Enter a number: ");
