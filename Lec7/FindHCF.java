@@ -1,4 +1,4 @@
-package lec7;
+package Lec7;
 import java.util.*;
 public class FindHCF {
     public static void main(String[] args) {

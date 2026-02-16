@@ -37,12 +37,3 @@ public class Pattern12 {   // Square Pattern leaving a V shape space inside it
         }
     }
 }
-
-
-// home work 
-//*********
-//**** ****
-//***   ***
-//**     **
-//*       *
-// / */
